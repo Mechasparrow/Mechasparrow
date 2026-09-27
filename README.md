@@ -1,6 +1,6 @@
 # Website
 
-https://www.mechasparrow.com/
+https://www.navazhylau.net/
 
 # 💫 About Me
 
@@ -14,7 +14,7 @@ This profile is no longer actively maintained.
 
 You can also find me on:
 
-[LinkedIn](https://www.linkedin.com/in/michaelnavazhylau/) • [Website](https://www.mechasparrow.com/)
+[LinkedIn](https://www.linkedin.com/in/michaelnavazhylau/) • [Website](https://www.navazhylau.net/)
 
 ---
 
